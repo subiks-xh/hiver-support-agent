@@ -1,0 +1,6 @@
+data/twcs/
+data/customer-support-on-twitter.zip
+.env
+__pycache__/
+*.pyc
+*.zip

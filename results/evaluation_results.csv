@@ -1,0 +1,210 @@
+message,true_intent,agent_intent,trivial_intent,keyword_intent,agent_correct,keyword_correct,trivial_correct
+@AmazonHelp What is ^HA?,TECHNICAL_ISSUE,PRODUCT_ISSUE,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,False,False,False
+@AmazonHelp Am I ok to stick the label on and send it back then?,RETURN_REFUND,RETURN_REFUND,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,True,False,False
+"@118706 If you are going to lie about delivering @115821 PACKAGES claiming people are not home to receive them, let  customers know#pissed",DELIVERY_ISSUE,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,ORDER_STATUS,False,False,False
+@AmazonHelp This is the 12th time in the past 6 months that @115850 is apologising for late delivery! Talk about consistency. And till when am I suppo,DELIVERY_ISSUE,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,RETURN_REFUND,False,False,False
+Definitely think @115830 packed this item efficiently......... https://t.co/SlzoVmzeF5,CUSTOMER_COMPLAINT,PRODUCT_ISSUE,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,False,True,True
+@AmazonHelp is there an issue with Amazon video today as I can't access it thanks,TECHNICAL_ISSUE,TECHNICAL_ISSUE,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,True,False,False
+.@116316 ich habe winter Kindle Fire beststellt. Diese habe ich bekommt. Kundendienst sagte 3 Woche für ein Neue. https://t.co/dGuVhTdQYW,PRODUCT_ISSUE,PRODUCT_ISSUE,CUSTOMER_COMPLAINT,TECHNICAL_ISSUE,True,False,False
+"@132976 Suuuuuuuuu
+ Gracias @116618  por traer esto de vuelta.",RETURN_REFUND,RETURN_REFUND,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,True,False,False
+"@117634 Having trouble launching the Kindle app on my MacBook Air running macOS Sierra 10.12.6. I'm running latest version, downloaded today. Launch s",TECHNICAL_ISSUE,TECHNICAL_ISSUE,CUSTOMER_COMPLAINT,TECHNICAL_ISSUE,True,True,False
+@AmazonHelp Es de Amazon logistic México !,DELIVERY_ISSUE,DELIVERY_ISSUE,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,True,False,False
+"@117086 eu fiz uma compra no valor de R$ 54,40 (nº702-4506118-7379460)
+ e foi debitado R$55,40 (R$54,40+R$1,00). Qual o motivo desse 1,00?",PAYMENT_ISSUE,PAYMENT_ISSUE,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,True,False,False
+@AmazonHelp This 3 images shows that the mention order has been returned on 16-11-17 and therefore I filled a Safe T claim on 18-11-17 and my claim go,RETURN_REFUND,RETURN_REFUND,CUSTOMER_COMPLAINT,ORDER_STATUS,True,False,False
+@115830 I ordered a set of three suitcases on Black Friday. Only one has turned up. Can you fix this?,DELIVERY_ISSUE,DELIVERY_ISSUE,CUSTOMER_COMPLAINT,ORDER_STATUS,True,False,False
+"@AmazonHelp Hi, I’ve got some information I wanna send who do I send it too? I think you have staff that and doing dodgy stuff",CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,True,True,True
+@115850 I will sue you in the court .. what a disgusting and unprofessional behaviour,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,True,True,True
+@115850 I cannot imagine how many consumers are getting cheated this way ! Awaiting your response @115850 @115821 ! #fraud,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,True,True,True
+@AmazonHelp @115821  thanks for the insult https://t.co/pImOhVzIgB,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,True,True,True
+@AmazonHelp I just ordered something and didn't receive free delivery however I'm on an amazon Prime trial so surely should have?,DELIVERY_ISSUE,DELIVERY_ISSUE,CUSTOMER_COMPLAINT,ORDER_STATUS,True,False,False
+My favorite is when @115821 completely ignores their prime shipping and bumps your Halloween costume delivery to after Halloween,DELIVERY_ISSUE,DELIVERY_ISSUE,CUSTOMER_COMPLAINT,ORDER_STATUS,True,False,False
+@115850 My mobile is 9069508900,CUSTOMER_COMPLAINT,TECHNICAL_ISSUE,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,False,True,True
+@AmazonHelp Will do. Thanks,ORDER_STATUS,ORDER_STATUS,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,True,False,False
+@AmazonHelp Even if i pay extra?,PAYMENT_ISSUE,PAYMENT_ISSUE,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,True,False,False
+@115850 @135789 @146956 @2517 @115821 Amazon Fake delivery Apple Watch @115858 @AppleSupport @AmazonHelp https://t.co/NSDyN3ww3S,PRODUCT_ISSUE,DELIVERY_ISSUE,CUSTOMER_COMPLAINT,TECHNICAL_ISSUE,False,False,False
+Thanks @115830 I was only sat 3 metres from my front door when your courier decided to leave my parcel in the mud outside instead of knocking 🙄 https:,DELIVERY_ISSUE,DELIVERY_ISSUE,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,True,False,False
+@AmazonHelp Encore faut-il pouvoir le contacter,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,True,True,True
+"@AmazonHelp Trust me, it’s not that... It cleared up after the first commercial break.  Every app does that.  The 2015 model didn’t do that.",TECHNICAL_ISSUE,TECHNICAL_ISSUE,CUSTOMER_COMPLAINT,TECHNICAL_ISSUE,True,True,False
+"@115850  Is it true and official offered by Amazon India??????
+
+ ""Congratz! Rs.5000 has been credited to your Amazon Pay Balance wallet. Valid till Mi",PAYMENT_ISSUE,PAYMENT_ISSUE,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,True,False,False
+Hey @115830 please pay my seller funds which has been held for over 115 days! __email__ https://t.co/KHJaKkECTA,PAYMENT_ISSUE,PAYMENT_ISSUE,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,True,False,False
+@AmazonHelp Dans ce cas annulez ma commande et remboursez moi,RETURN_REFUND,RETURN_REFUND,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,True,False,False
+@AmazonHelp Yes been in contact with cust services. Not sure but it seems that it is DPD deliveries. Deliveries seem to be a mess at the moment when u,DELIVERY_ISSUE,DELIVERY_ISSUE,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,True,False,False
+@AmazonHelp No can you tell me how to make a compliant it's easier,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,True,True,True
+".@AmazonHelp I was just told on the phone my neighborhood is ""unsafe"" so I can't have prime packages left on my porch even though I have had them deli",DELIVERY_ISSUE,DELIVERY_ISSUE,CUSTOMER_COMPLAINT,ORDER_STATUS,True,False,False
+@AmazonHelp Es que no se si la cague o no…,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,True,True,True
+"A smart, well-dressed man  just approached me at Mumbai airport asking for an autograph on a book he was planning to read on his flight. It was a pira",CUSTOMER_COMPLAINT,PRODUCT_ISSUE,CUSTOMER_COMPLAINT,TECHNICAL_ISSUE,False,False,True
+@AmazonHelp USPS says it left shipping partner facility in Kenosha WI at 3:23 A.M yesterday. That was the last update.,ORDER_STATUS,ORDER_STATUS,CUSTOMER_COMPLAINT,ORDER_STATUS,True,True,False
+@115850 Thank you @115850  to refund my money in 24 hours https://t.co/6CZDjtNOAt,RETURN_REFUND,RETURN_REFUND,CUSTOMER_COMPLAINT,RETURN_REFUND,True,True,False
+@AmazonHelp ?? 😬,ORDER_STATUS,TECHNICAL_ISSUE,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,False,False,False
+@AmazonHelp Oui si je viens ici s'est sue j'ai pas forcément eue de nouvelles,ORDER_STATUS,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,False,False,False
+#KaroMilkeLateDelivery is the mantra of @115850 can say it with experience. They don't delivery at commmitted time &amp; give excuses https://t.co/6I4,DELIVERY_ISSUE,DELIVERY_ISSUE,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,True,False,False
+"@115851 @AmazonHelp @115850 #JEFFBEZOS  have you founded amazon india to cheat and harass innocent people of India???
+
+Why there is no action on bad b",CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,True,True,True
+@115830 wasn't informed of my delivery plus my product was left outside in the rain! #amazon #amazonprime https://t.co/WxJjCWkqmZ,DELIVERY_ISSUE,DELIVERY_ISSUE,CUSTOMER_COMPLAINT,DELIVERY_ISSUE,True,True,False
+@AmazonHelp @AmazonHelp Thank u.....can i put my hopes alive for any contest on iphone’s in coming week,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,True,True,True
+@AmazonHelp All I want @115830 to do is to cancel this replacement and pick up the faulty item. Surely it’s not much to ask for?,RETURN_REFUND,RETURN_REFUND,CUSTOMER_COMPLAINT,RETURN_REFUND,True,True,False
+"Hey @120533 @117634 Quand pourrions nous télécharger des app sur Kindle en France ??
+Car j’aimerai beaucoup faire mes sudoku dessus!",TECHNICAL_ISSUE,TECHNICAL_ISSUE,CUSTOMER_COMPLAINT,TECHNICAL_ISSUE,True,True,False
+@115850 Hi. One of my orders wasn't delivered but your app says it's been delivered. How do we fix this?,DELIVERY_ISSUE,DELIVERY_ISSUE,CUSTOMER_COMPLAINT,ORDER_STATUS,True,False,False
+being a prime subscriber pained to see no Kannada content @119625 - what is the issue to get more Kannada content ? https://t.co/s7tzmpvILn,CUSTOMER_COMPLAINT,TECHNICAL_ISSUE,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,False,True,True
+@115850 What the hell is wrong with you. Learn a thing or two from your competitor @118702. you hardly ever need to call their customer support and if,DELIVERY_ISSUE,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,False,False,False
+"@AmazonHelp @116928 @130709 @132703 la ""nueva fecha de entrega"" es hoy hasta las 20:00... https://t.co/VC98Tgmh4G",ORDER_STATUS,ORDER_STATUS,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,True,False,False
+"@AmazonHelp My mobile number listed is 9673101122, but u can reach me on 9818601122",TECHNICAL_ISSUE,TECHNICAL_ISSUE,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,True,False,False
+@AmazonHelp No I contacted just delayed 😑,ORDER_STATUS,DELIVERY_ISSUE,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,False,False,False
+Pedir que te traigan un paquete que necesita urgentemente el lunes y que aún no lo tengas demuestra la poca profesionalidad de @116928,DELIVERY_ISSUE,DELIVERY_ISSUE,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,True,False,False
+"@AmazonHelp Mas eu estou na fase experimental, não sou cliente efetiva",CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,True,True,True
+"Acabo de recibir un paquete de @116928 por @4496 y en vez de llamar a la puerta,lo dejan en el borde de la ventana.Me lo explican?",DELIVERY_ISSUE,DELIVERY_ISSUE,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,True,False,False
+"@AmazonHelp Aunque haya encontrado el problema, por favor, poned más a mano lo del chat. xD",TECHNICAL_ISSUE,TECHNICAL_ISSUE,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,True,False,False
+"It's midnight and an Amazon seller just challenged my claim that they fucked up my order. First of all, I anticipate everything. Second, I saved the p",RETURN_REFUND,RETURN_REFUND,CUSTOMER_COMPLAINT,ORDER_STATUS,True,False,False
+@AmazonHelp if I set up a wish list will the person be able to see my address when it’s delivered?,DELIVERY_ISSUE,TECHNICAL_ISSUE,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,False,False,False
+@AmazonHelp I believe it’s been resolved. Hopefully.,CUSTOMER_COMPLAINT,ORDER_STATUS,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,False,True,True
+Please have a thorough look on the trail tweets. Its very upsetting. Its gonna be a nightmare experience with @115850 https://t.co/NEzMxKAuJo,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,True,True,True
+@AmazonHelp I ordered a wedding dress back in September. It was supposed to be here by October 11. It still isn’t here and Amazon has no tracking info,ORDER_STATUS,ORDER_STATUS,CUSTOMER_COMPLAINT,ORDER_STATUS,True,True,False
+Hey @115850 where is my order?? @118702 delivers in promised date what abt u??,ORDER_STATUS,ORDER_STATUS,CUSTOMER_COMPLAINT,ORDER_STATUS,True,True,False
+**HELP** If I preorder something on @115830 do they take the money right away or when it gets delivered?,PAYMENT_ISSUE,PAYMENT_ISSUE,CUSTOMER_COMPLAINT,ORDER_STATUS,True,False,False
+@AmazonHelp I received the hardcover book that I ordered and it is completely ripped and smashed from one side. Second time this year,PRODUCT_ISSUE,PRODUCT_ISSUE,CUSTOMER_COMPLAINT,ORDER_STATUS,True,False,False
+@AmazonHelp Yes I have reported .they replied with the message of sorry we can't help,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,True,True,True
+Happy Diwali @115850,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,TECHNICAL_ISSUE,True,False,True
+@AmazonHelp STILL no sign of this item. Seller said they'd contact Royal Mail but I've heard nothing.,ORDER_STATUS,DELIVERY_ISSUE,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,False,False,False
+@AmazonHelp I don't know,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,True,True,True
+@115821 I purchased this earphone from your company on 23 Oct and it's not working.... https://t.co/2fGkZKR2qH,PRODUCT_ISSUE,PRODUCT_ISSUE,CUSTOMER_COMPLAINT,TECHNICAL_ISSUE,True,False,False
+@115850 help me to get the refund in order no 402-1224899-9111548. delivered product have manfg defects and battery drain etc issues,RETURN_REFUND,RETURN_REFUND,CUSTOMER_COMPLAINT,ORDER_STATUS,True,False,False
+@AmazonHelp Thank you however how long are they running for? As to what date not what deals. Many thanks,ORDER_STATUS,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,False,False,False
+@115850 why to you promise false discounts with wrong mrp ...the device I bought showed a mrp of 7999 when its actual mrp is 7499 https://t.co/1kqHQVH,CUSTOMER_COMPLAINT,PAYMENT_ISSUE,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,False,True,True
+@115850 Hi.. I made a purchase in August and still the cash back still not refunded... whom need to be contacted.. please guide.,PAYMENT_ISSUE,RETURN_REFUND,CUSTOMER_COMPLAINT,RETURN_REFUND,False,False,False
+"@115850 mrp shows less price and i had to pay more, what a cheating. Contact me @ 9492845878 https://t.co/z9RHyCgDW7",PAYMENT_ISSUE,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,False,False,False
+Wow..Got the phone from @115850 with special offer valid till 8th October.  InFocus Turbo5plus For 8499 https://t.co/K6FUKVBFDL,ORDER_STATUS,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,False,False,False
+@AmazonHelp When I would hear a positive response from your side.#Amazoncheat #DontshopfromAmazon @115850 @115821 @115851 @120320 @119351,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,True,True,True
+@AmazonHelp I want the pickup to be done today I can't wait for Tom u have the invoice with u with IMEI no so show them,RETURN_REFUND,PAYMENT_ISSUE,CUSTOMER_COMPLAINT,PAYMENT_ISSUE,False,False,False
+"@115830 Been charged £7.99 for my ""free trial"" &amp; on site it says 'Next Payment:
+You will lose access to your benefits on 16 December 2017 and your",PAYMENT_ISSUE,PAYMENT_ISSUE,CUSTOMER_COMPLAINT,PAYMENT_ISSUE,True,True,False
+@AmazonHelp I just don't understand how it's fair that I order prime item expecting next day delivery and you accept order than send email with differ,DELIVERY_ISSUE,ORDER_STATUS,CUSTOMER_COMPLAINT,ORDER_STATUS,False,False,False
+@115850 waiting for refund for order no 171-5655450-744913. The item has benn returned but not updated in site. Please process my refund.,RETURN_REFUND,RETURN_REFUND,CUSTOMER_COMPLAINT,RETURN_REFUND,True,True,False
+@115850 @115821 guys don't go for Amazon sale ... I purchased I phone SE. Ear phone not working one side. Given to iStore for replacement,PRODUCT_ISSUE,RETURN_REFUND,CUSTOMER_COMPLAINT,RETURN_REFUND,False,False,False
+@AmazonHelp Tirns out ive beencharged twice for both. Im not trusting the seller and these are the people your link takes me to. Im looking to speak t,PAYMENT_ISSUE,PAYMENT_ISSUE,CUSTOMER_COMPLAINT,PAYMENT_ISSUE,True,True,False
+What's going on @116439? Nothing is working &amp; my Wi-Fi is fine.,TECHNICAL_ISSUE,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,False,False,False
+@116618 @143798 @115786 ummmmmm help? https://t.co/QOG7NtUFwH,TECHNICAL_ISSUE,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,False,False,False
+"Huhu 😂 Amazon Prime kann man nicht über die App bestellen … @116316, das ist aber echt altmodisch 👀",CUSTOMER_COMPLAINT,TECHNICAL_ISSUE,CUSTOMER_COMPLAINT,TECHNICAL_ISSUE,False,False,True
+@AmazonHelp Si o no haha esque lo vi en internet 🤔🤔🤔,TECHNICAL_ISSUE,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,False,False,False
+@AmazonHelp Thanks. It's 'almost' resolved.,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,True,True,True
+@AmazonHelp Any update on this?,ORDER_STATUS,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,False,False,False
+@117795 pay for same day delivery says “delivery by 9pm” yea right you guys suck,DELIVERY_ISSUE,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,False,False,False
+@115821 I’m interested in amazon flex. How can I get started?,TECHNICAL_ISSUE,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,False,False,False
+@AmazonHelp where is my SNES Classic preorder??????????????? Ordered on 8/22!,ORDER_STATUS,ORDER_STATUS,CUSTOMER_COMPLAINT,ORDER_STATUS,True,True,False
+@115830 I haven’t gotten my order yet,ORDER_STATUS,ORDER_STATUS,CUSTOMER_COMPLAINT,ORDER_STATUS,True,True,False
+@AmazonHelp Stop cheating #amazon stop scamming,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,True,True,True
+@AmazonHelp C'est fait :),ORDER_STATUS,ORDER_STATUS,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,True,False,False
+"@AmazonHelp No one helped, just blabbed lots of bad English and kept apologizing.",CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,True,True,True
+@AmazonHelp Why have you renewed my subscription without notice and taken the money?,PAYMENT_ISSUE,PAYMENT_ISSUE,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,True,False,False
+@AmazonHelp Sir Will I get my money back or not,RETURN_REFUND,RETURN_REFUND,CUSTOMER_COMPLAINT,RETURN_REFUND,True,True,False
+Why is it that @115830  prime’s one day delivery has been taking minimum 4 days lately?,DELIVERY_ISSUE,DELIVERY_ISSUE,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,True,False,False
+@117795 why are unmarked vehicles delivering packages? Happening for the last few weeks,DELIVERY_ISSUE,DELIVERY_ISSUE,CUSTOMER_COMPLAINT,ORDER_STATUS,True,False,False
+@115850 please find screenshot of mail. My contact 9881409002 https://t.co/pRE0ARqfbV,CUSTOMER_COMPLAINT,TECHNICAL_ISSUE,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,False,True,True
+@AmazonHelp Valeu!,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,True,True,True
+@AmazonHelp I have filled the form. Let's see how quickly you guys contact me.,CUSTOMER_COMPLAINT,TECHNICAL_ISSUE,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,False,True,True
+@117086 Carlos Drummond de Andrade,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,True,True,True
+@AmazonHelp I just got both packages! Thank you!,ORDER_STATUS,ORDER_STATUS,CUSTOMER_COMPLAINT,ORDER_STATUS,True,True,False
+@AmazonHelp By carrier you mean who it was sold by?,ORDER_STATUS,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,False,False,False
+@115850 Can y’all unsuspend my account ?,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,True,True,True
+@115825 wann kommt staffel 13 von greys anatomy online? Also für alle,TECHNICAL_ISSUE,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,False,False,False
+@601214 .@115830 fucked up my odyssey pre order. I'll never pre order anything from them again.,CUSTOMER_COMPLAINT,ORDER_STATUS,CUSTOMER_COMPLAINT,ORDER_STATUS,False,False,True
+@AmazonHelp why have I only received half a refund?!,RETURN_REFUND,RETURN_REFUND,CUSTOMER_COMPLAINT,RETURN_REFUND,True,True,False
+"@115850 
+
+only 15 Digits are there inside the wrapper.
+forgot to print ?? https://t.co/4davyo911q",PRODUCT_ISSUE,TECHNICAL_ISSUE,CUSTOMER_COMPLAINT,TECHNICAL_ISSUE,False,False,False
+@AmazonHelp Wow thanks!,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,True,True,True
+I've been charged around Rs. 6k for an Amazon Prime Membership. Please help. @115850,PAYMENT_ISSUE,PAYMENT_ISSUE,CUSTOMER_COMPLAINT,PAYMENT_ISSUE,True,True,False
+@AmazonHelp Just found an email saying that an attempt has been made to deliver a parcel. I’ve been in all day. No one has been to the door. #useless,DELIVERY_ISSUE,DELIVERY_ISSUE,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,True,False,False
+What's the point of subscribing to @115830 Prime if it keeps failing to meet its one day delivery promise? Then being told to wait another few days fo,DELIVERY_ISSUE,DELIVERY_ISSUE,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,True,False,False
+"#AmazonIndia pathetic delivery services, ORDER # 408-8706809-0683542
+No response ,",DELIVERY_ISSUE,DELIVERY_ISSUE,CUSTOMER_COMPLAINT,ORDER_STATUS,True,False,False
+@AmazonHelp Pathetic reply by your caller,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,True,True,True
+@135834 @115850 Same happened with me too on last Monday (w.r.t Order#408-7853969-6918744). Disappointed. Not sure whom he has handed over the item...,DELIVERY_ISSUE,DELIVERY_ISSUE,CUSTOMER_COMPLAINT,ORDER_STATUS,True,False,False
+@115850 bad service to customers And return policy are worst.My product return is not done from last 15 day and amazon care not supporting,RETURN_REFUND,RETURN_REFUND,CUSTOMER_COMPLAINT,RETURN_REFUND,True,True,False
+"@115851 your amazon customer service so far is appalling, making excuses for crimes being committed by your delivery personnel, and then hiding behind",CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,TECHNICAL_ISSUE,True,False,True
+@AmazonHelp None of your links are taking me to a solution. Been after this since 3 days. Most pathetic service ever. You guys shall call me ASAP! (1/,CUSTOMER_COMPLAINT,TECHNICAL_ISSUE,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,False,True,True
+@AmazonHelp #First lost my order# then you place replacement order # 2 days delivery for normal purchase &amp; 5 days for replacement # what a disgust,ORDER_STATUS,DELIVERY_ISSUE,CUSTOMER_COMPLAINT,ORDER_STATUS,False,True,False
+Hey @115821 and @2150 I needed to leave my house THREE HOURS AGO but plans (and myself) held hostage waiting for pkg. Unacceptable.,DELIVERY_ISSUE,DELIVERY_ISSUE,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,True,False,False
+"@AmazonHelp I'm not sure who decided that you'd just use everyday people to deliver orders, but it's a terrible idea and is clearly not working. Someo",DELIVERY_ISSUE,DELIVERY_ISSUE,CUSTOMER_COMPLAINT,ORDER_STATUS,True,False,False
+So my @115830 order which was due yesterday and then I was promised would be here today isn't coming today either 😡 Prime is rubbish!,ORDER_STATUS,DELIVERY_ISSUE,CUSTOMER_COMPLAINT,ORDER_STATUS,False,True,False
+@AmazonHelp That link is useless. Bunch of automated check boxes that don't let me explain my issue,CUSTOMER_COMPLAINT,TECHNICAL_ISSUE,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,False,True,True
+"@AmazonHelp @115850 @115830 wow wat professionalism at amazon, hav been following up to resolve concern past 6 days, n guess amazon is still solving t",CUSTOMER_COMPLAINT,DELIVERY_ISSUE,CUSTOMER_COMPLAINT,ORDER_STATUS,False,False,True
+Hey @115821 we love the convenience of shopping your site &amp; do it regularly but this is ridiculous. Why not slap the label on the pouch &amp; send,DELIVERY_ISSUE,DELIVERY_ISSUE,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,True,False,False
+".@AmazonHelp, mille mercis, je suis comme un gosse le matin de Noël !!! 🎅🏻😍❤️ Cc @120533 @132976 @227703 @172251 @21737 https://t.co/GqO03mxjWo",ORDER_STATUS,ORDER_STATUS,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,True,False,False
+@115821 y such a big ass box for such a little product #wastedspace https://t.co/kPntMIZCcB,PRODUCT_ISSUE,PRODUCT_ISSUE,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,True,False,False
+The @116439 has to be one of the worst streaming devices on the market.  #alwaysfails #wasteofmoney,TECHNICAL_ISSUE,PRODUCT_ISSUE,CUSTOMER_COMPLAINT,TECHNICAL_ISSUE,False,True,False
+"@AmazonHelp If you will be willing to actually help me &amp; not just say ""sorry""..Ive wasted my entire morning talking to multiple people who couldnt",CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,True,True,True
+No update on my order since 18 hrs..@115821 @118919  worst services in store @118702  has betr services nd are on par with promises https://t.co/CZWrd,ORDER_STATUS,ORDER_STATUS,CUSTOMER_COMPLAINT,ORDER_STATUS,True,True,False
+"There is something severely wrong with @115821 @AmazonHelp website! Reset my password tried using it and the website says ""incorrect password"". How's ",TECHNICAL_ISSUE,TECHNICAL_ISSUE,CUSTOMER_COMPLAINT,TECHNICAL_ISSUE,True,True,False
+@AmazonHelp do u have a problem with me? Again my order 113107370638 is late. The customer service I feel is awful. Not expected frm u.,ORDER_STATUS,DELIVERY_ISSUE,CUSTOMER_COMPLAINT,ORDER_STATUS,False,True,False
+"@115830 @AmazonHelp lost order and call to speak to your 'escalation team'. Spoken to in a disgusting, condescending manner and you put the phone down",CUSTOMER_COMPLAINT,DELIVERY_ISSUE,CUSTOMER_COMPLAINT,ORDER_STATUS,False,False,True
+"Hi friends
+Please don't buy TCL products , worst customer care service is  providing by TCL. Amazon too cheated
+@41205 @115850",CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,True,True,True
+@115821 hola! Como puedo hacer una factura de una compra??? Solo soy capaz de introducir una dirección!!!,PAYMENT_ISSUE,PAYMENT_ISSUE,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,True,False,False
+@115821 was it really necessary to use such a huge box for this? So wasteful https://t.co/ugLgshnN6Y,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,True,True,True
+Didn't expect this from #amazonindia . Worst service ever. Very disappointed .,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,TECHNICAL_ISSUE,True,False,True
+@115850 Received an order today with old and dirty product inside.Pathetic and Worst experience as this was supposed to be a Diwali gift,PRODUCT_ISSUE,PRODUCT_ISSUE,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,True,False,False
+@115821 stop promising Sunday  delivery dates if it's always going to be changed to Monday. This has happened multiple times and is terrible customer ,DELIVERY_ISSUE,DELIVERY_ISSUE,CUSTOMER_COMPLAINT,TECHNICAL_ISSUE,True,False,False
+@115830 really does have the best customer service. Ridiculously good.,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,True,True,True
+"@AmazonHelp When @15462 @93841 and many other are providing chromecast option 
+
+Y are u not providing it ??",CUSTOMER_COMPLAINT,PRODUCT_ISSUE,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,False,True,True
+@116875 Como me pongo en contacto con el transportista? Mi fecha de entrega es hoy,ORDER_STATUS,ORDER_STATUS,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,True,False,False
+"@AmazonHelp Now just got call from @115850 #localCourier , they assured me to delivery done by 2300 , lets C it'll happened or not.",ORDER_STATUS,ORDER_STATUS,CUSTOMER_COMPLAINT,TECHNICAL_ISSUE,True,False,False
+"@115821 #amzl_us isn't cutting it - 1st package left in public entrance got stolen, said *not* to leave it there but it was again and stolen",DELIVERY_ISSUE,DELIVERY_ISSUE,CUSTOMER_COMPLAINT,ORDER_STATUS,True,False,False
+"Bon j’ai mon tél demain, réactif pour le coup @120533 👏🤔",ORDER_STATUS,PRODUCT_ISSUE,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,False,False,False
+@115850 somehow not able to download apps on my fire stick. Gives an error of purchase failure. Pls help,TECHNICAL_ISSUE,TECHNICAL_ISSUE,CUSTOMER_COMPLAINT,TECHNICAL_ISSUE,True,True,False
+"@115850 very dissatisfied with service.1st order Boom  box was not getting on,2nd cd drive cover/flap was broken..still no refund yet https://t.co/vJA",RETURN_REFUND,PRODUCT_ISSUE,CUSTOMER_COMPLAINT,ORDER_STATUS,False,False,False
+Hola @116928! Los calendarios de adviento que tenéis tienen día de entrega después del día 1. No tiene mucho sentido 😅. Solo como recomendación #frien,PRODUCT_ISSUE,DELIVERY_ISSUE,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,False,False,False
+@115850 I tried calling delivery team but they are not responding please contact me back 8867771374 and let me know status of my order.,ORDER_STATUS,ORDER_STATUS,CUSTOMER_COMPLAINT,ORDER_STATUS,True,True,False
+@115850 @85016 my order was out for delivery on 17th but till now I havent received it nor anyone contacted. This is ridiculous😡👺,DELIVERY_ISSUE,DELIVERY_ISSUE,CUSTOMER_COMPLAINT,ORDER_STATUS,True,False,False
+"Funny, because I've been home and awake, @115821, and nobody tried to deliver anything. Congrats on stalling an already late delivery. https://t.co/t7",DELIVERY_ISSUE,DELIVERY_ISSUE,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,True,False,False
+@115830 struggling to get hold of anyone please can you DM me? Thank you,CUSTOMER_COMPLAINT,DELIVERY_ISSUE,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,False,True,True
+When the @115821 delivery man opens your front door &amp; comes in your house uninvited to leave parcels when your upstairs.. it's fine break in,DELIVERY_ISSUE,DELIVERY_ISSUE,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,True,False,False
+@115850 Never buy products from Amazon. They r cheaters @115850 @1840,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,True,True,True
+"Alexa responds, ""Sorry, I'm having trouble understanding right now please try again later."" WTH @115833",TECHNICAL_ISSUE,TECHNICAL_ISSUE,CUSTOMER_COMPLAINT,TECHNICAL_ISSUE,True,True,False
+"Faux mail reçu.
+Ne jamais cliquer  bouton "" Annuler la commande "" Sinon le pirate aura accès à votre compte @2600  @63522 https://t.co/8hw7yguedF",CUSTOMER_COMPLAINT,TECHNICAL_ISSUE,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,False,True,True
+"@115821  @AmazonHelp  @139798 
+
+Still not received my refund from the 27th of july. I have made a complaint to the financial ombudsmen. Maybe the sun ",RETURN_REFUND,RETURN_REFUND,CUSTOMER_COMPLAINT,DELIVERY_ISSUE,True,False,False
+"@115821 sent me an empty cardboard box instead of my Elgato Capture card, from 1 day shipping to waiting 4 days #streamerproblems #feelsbad",PRODUCT_ISSUE,PRODUCT_ISSUE,CUSTOMER_COMPLAINT,ORDER_STATUS,True,False,False
+@116316 Seit 11 Uhr wird heute versendet... Es ist jetzt 23:03. Was läuft da denn wieder nicht?... #wwe2k18,ORDER_STATUS,DELIVERY_ISSUE,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,False,False,False
+@115850 What's the point in charging extra for quick delivery when your courier cares two hoots and deliberately delays?,CUSTOMER_COMPLAINT,DELIVERY_ISSUE,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,False,True,True
+@AmazonHelp @115850 go figure https://t.co/UgOBRDcldr,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,True,True,True
+@117086 oi pessoal! Comprei um e-book pelo aplicativo Kindle no celular e ele não aparece no meu Kindle. Preciso fazer algum procedimento? Obrigada!,TECHNICAL_ISSUE,TECHNICAL_ISSUE,CUSTOMER_COMPLAINT,TECHNICAL_ISSUE,True,True,False
+@AmazonHelp I am referring to Order # 404-7327158-1763555 .. If you really can help me with this..,ORDER_STATUS,ORDER_STATUS,CUSTOMER_COMPLAINT,ORDER_STATUS,True,True,False
+"J'ai fait 1 commande le 04/11 qui est annoncée livrée le 07/11. nous sommes le 08/11, @120533  où est ma commande s'il vous plait ?????????????????",ORDER_STATUS,DELIVERY_ISSUE,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,False,False,False
+@115851 @115850 @1840 I need you people to look into the matter as I am going to lodge a complaint in the Consumer Forum too..,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,True,True,True
+@AmazonHelp 10th oct 2017 was delivery date. I placed the order on 12th sept 17,ORDER_STATUS,ORDER_STATUS,CUSTOMER_COMPLAINT,ORDER_STATUS,True,True,False
+"My prediction was correct. Hermes ""guaranteed"" delivery by 8PM today. It's now 8.20PM and no package. You might want to sort out your courier choices,",DELIVERY_ISSUE,DELIVERY_ISSUE,CUSTOMER_COMPLAINT,ORDER_STATUS,True,False,False
+"@56055 @2600 Faz bem. :~ Nunca mais compro nada na Amazon France. Nunca mais mesmo. Pra devolver os livros é um saco $, nem vale a pena.",CUSTOMER_COMPLAINT,RETURN_REFUND,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,False,True,True
+Amazon is actually down right now. @115821 @118919,TECHNICAL_ISSUE,TECHNICAL_ISSUE,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,True,False,False
+I have 9 devices registered with my Echo so why can't I create any Scenes with them? @115833 https://t.co/bRzJ87YTbC,TECHNICAL_ISSUE,TECHNICAL_ISSUE,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,True,False,False
+"@AmazonHelp Si, pero es que además de eso me cobran un importe similar por la tasa de importación....será que el impuesto esta duplicado? https://t.co",PAYMENT_ISSUE,PAYMENT_ISSUE,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,True,False,False
+"@AmazonHelp Toujours rien, normal?",ORDER_STATUS,ORDER_STATUS,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,True,False,False
+@AmazonHelp Ah dommage je n'achèterais pas alors. Vous ne savez pas si vous en aurez à nouveau en stock ? (vu que ce sont les nouveaux ipad pro).,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,True,True,True
+@115850 what happened to my order and as claimed it was not attempted to deliver on Monday. When i can expect it?,ORDER_STATUS,DELIVERY_ISSUE,CUSTOMER_COMPLAINT,ORDER_STATUS,False,True,False
+"@115830 why do I have a notification telling me my parcel has been delivered, ""handed to the resident"" at my address when it hasn't been? I've been he",DELIVERY_ISSUE,DELIVERY_ISSUE,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,True,False,False
+"@120533 Bonjour, aucune nouvelle d’une commande prime devant être reçu ce jour avant 20h, que faire ?",ORDER_STATUS,ORDER_STATUS,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,True,False,False
+@130293 buenas¡ hay fecha de estreno para la tercera temporada de Mozart in the jungle en España???,TECHNICAL_ISSUE,ORDER_STATUS,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,False,False,False
+"@115850 
+what the hell!!? Why do I have to pay more from my prime account? Please explain. @117795  @115821 https://t.co/EfQnuuxqy4",PAYMENT_ISSUE,PAYMENT_ISSUE,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,True,False,False
+"@AmazonHelp Nothing Special ... Just an apology, requesting to bear &amp; asking for more time. I fail to understand what kind of mega project are we ",CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,TECHNICAL_ISSUE,True,False,True
+@AmazonHelp @115821 @AmazonHelp @115850 what good is amazon prime for me then? when it doesn't even work.,TECHNICAL_ISSUE,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,False,False,False
+"Hola @116928 , ¿pará que año me van a llegar mis pedidos más o menos? Llevo ya casi 1 mes y medio esperando.",ORDER_STATUS,ORDER_STATUS,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,True,False,False
+@AmazonHelp Yes it still says dispatching soon. Arriving before 8pm but that's not happening is it?,ORDER_STATUS,DELIVERY_ISSUE,CUSTOMER_COMPLAINT,TECHNICAL_ISSUE,False,False,False
+@AmazonHelp This is what I was talking about...!!? Why did Amazon using Aramax to deliver their hero product...!!?? https://t.co/RmEUdMQgQA,DELIVERY_ISSUE,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,False,False,False
+@AmazonHelp When @138673 4 (Rs. 7000) will come into flash sale? I'm waiting since a long time.,CUSTOMER_COMPLAINT,ORDER_STATUS,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,False,True,True
+@AmazonHelp you've taken £7.99 out of my account... but I've already paid for a years prime membership in full on the 7th this month??,PAYMENT_ISSUE,PAYMENT_ISSUE,CUSTOMER_COMPLAINT,PAYMENT_ISSUE,True,True,False
+"@AmazonHelp @4984 Welches Sprachkommando muss ich nutzen, damit Alexa meine gespeicherten Songs abspielt? Wenn ich ""Spiele meine Songs"" sage, kommt im",TECHNICAL_ISSUE,TECHNICAL_ISSUE,CUSTOMER_COMPLAINT,TECHNICAL_ISSUE,True,True,False
+@115850 awesome. Would it adjust nicely with AVR and speakers?,PRODUCT_ISSUE,TECHNICAL_ISSUE,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,False,False,False
+@115850 Tracking #: 118108442803.The product is scheduled to be delivered tomorrow.By any chance can it be delivered today? Humble request,ORDER_STATUS,ORDER_STATUS,CUSTOMER_COMPLAINT,ORDER_STATUS,True,True,False
+@AmazonHelp That was not the question! What about the Calling card to say the courier has actually been? Do you not use these any more?,DELIVERY_ISSUE,DELIVERY_ISSUE,CUSTOMER_COMPLAINT,CUSTOMER_COMPLAINT,True,False,False

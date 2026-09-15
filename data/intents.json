@@ -1,0 +1,65 @@
+[
+  {
+    "intent": "ORDER_STATUS",
+    "description": "Customer asks for tracking information, expected delivery date, or any update on an existing order.",
+    "examples": [
+      "Where is my order?",
+      "Can you give me the tracking number for my package?",
+      "When will my package arrive?"
+    ]
+  },
+  {
+    "intent": "DELIVERY_ISSUE",
+    "description": "Customer reports a problem with how the package was delivered (wrong location, left outside, unsafe, damaged, etc.).",
+    "examples": [
+      "My parcel was left in the mud outside my door.",
+      "The courier delivered to the wrong address.",
+      "I received a damaged package."
+    ]
+  },
+  {
+    "intent": "RETURN_REFUND",
+    "description": "Customer wants to return an item, is asking about a refund, or is disputing a return claim.",
+    "examples": [
+      "I want to return this item, can I use the label?",
+      "When will I get my refund for the returned order?",
+      "My return claim was denied, what can I do?"
+    ]
+  },
+  {
+    "intent": "PAYMENT_ISSUE",
+    "description": "Customer questions a charge, sees an unexpected fee, or has billing\u2011related problems.",
+    "examples": [
+      "Why was I charged an extra $1 on my purchase?",
+      "I was billed for shipping even though I'm a Prime member.",
+      "My credit card was charged twice for the same order."
+    ]
+  },
+  {
+    "intent": "TECHNICAL_ISSUE",
+    "description": "Customer experiences problems with Amazon services or devices (apps, video, wish list, etc.).",
+    "examples": [
+      "Amazon Video won't load on my TV.",
+      "The Kindle app gets stuck on the initializing screen.",
+      "If I set up a wish list, will my address be visible to others?"
+    ]
+  },
+  {
+    "intent": "PRODUCT_ISSUE",
+    "description": "Customer reports a defect, missing parts, or that the received product does not match expectations.",
+    "examples": [
+      "The suitcase I received is broken.",
+      "My order is missing one of the three items I bought.",
+      "The product I got is not the model I ordered."
+    ]
+  },
+  {
+    "intent": "CUSTOMER_COMPLAINT",
+    "description": "Customer expresses dissatisfaction, accuses Amazon of misconduct, or threatens legal action.",
+    "examples": [
+      "Your delivery service is terrible and always late.",
+      "I will sue you for the unprofessional behavior of your support team.",
+      "Why does Amazon ignore my complaints about fake deliveries?"
+    ]
+  }
+]

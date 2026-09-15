@@ -1,0 +1,27 @@
+{
+  "n_examples": 189,
+  "agent_accuracy": 0.6772,
+  "trivial_baseline_accuracy": 0.2857,
+  "keyword_baseline_accuracy": 0.4233,
+  "improvement_over_trivial": 0.3915,
+  "improvement_over_keyword": 0.254,
+  "most_common_intent": "CUSTOMER_COMPLAINT",
+  "per_intent_agent": {
+    "CUSTOMER_COMPLAINT": 0.63,
+    "DELIVERY_ISSUE": 0.806,
+    "ORDER_STATUS": 0.556,
+    "PAYMENT_ISSUE": 0.867,
+    "PRODUCT_ISSUE": 0.545,
+    "RETURN_REFUND": 0.867,
+    "TECHNICAL_ISSUE": 0.591
+  },
+  "per_intent_keyword": {
+    "CUSTOMER_COMPLAINT": 0.833,
+    "DELIVERY_ISSUE": 0.028,
+    "ORDER_STATUS": 0.417,
+    "PAYMENT_ISSUE": 0.267,
+    "PRODUCT_ISSUE": 0.0,
+    "RETURN_REFUND": 0.4,
+    "TECHNICAL_ISSUE": 0.409
+  }
+}

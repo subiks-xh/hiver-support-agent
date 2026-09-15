@@ -1,0 +1,71 @@
+{
+  "summary": {
+    "total_evaluated": 189,
+    "correct": 128,
+    "failures": 61,
+    "accuracy": 0.6772,
+    "failure_rate": 0.3228
+  },
+  "failure_modes": {
+    "mode1_confused_pairs": [
+      {
+        "true_intent": "ORDER_STATUS",
+        "agent_intent": "DELIVERY_ISSUE",
+        "count": 9
+      },
+      {
+        "true_intent": "CUSTOMER_COMPLAINT",
+        "agent_intent": "TECHNICAL_ISSUE",
+        "count": 8
+      },
+      {
+        "true_intent": "TECHNICAL_ISSUE",
+        "agent_intent": "CUSTOMER_COMPLAINT",
+        "count": 6
+      },
+      {
+        "true_intent": "DELIVERY_ISSUE",
+        "agent_intent": "CUSTOMER_COMPLAINT",
+        "count": 5
+      },
+      {
+        "true_intent": "ORDER_STATUS",
+        "agent_intent": "CUSTOMER_COMPLAINT",
+        "count": 5
+      }
+    ],
+    "mode2_short_messages": {
+      "count": 17,
+      "pct_of_failures": 0.279,
+      "examples": [
+        "@AmazonHelp What is ^HA?",
+        "@115850 My mobile is 9069508900",
+        "@AmazonHelp ?? \ud83d\ude2c"
+      ]
+    },
+    "mode3_angry_messages": {
+      "count": 6,
+      "examples": [
+        "@AmazonHelp None of your links are taking me to a solution. Been after this since 3 days. Most pathetic service ever. You guys shall call me ASAP! (1/",
+        "@AmazonHelp That link is useless. Bunch of automated check boxes that don't let me explain my issue",
+        "The @116439 has to be one of the worst streaming devices on the market.  #alwaysfails #wasteofmoney"
+      ]
+    },
+    "mode4_long_multi_intent": {
+      "count": 0,
+      "examples": []
+    },
+    "mode5_low_quality_replies": {
+      "count": 1
+    }
+  },
+  "per_intent_accuracy": {
+    "CUSTOMER_COMPLAINT": 0.63,
+    "DELIVERY_ISSUE": 0.806,
+    "ORDER_STATUS": 0.556,
+    "PAYMENT_ISSUE": 0.867,
+    "PRODUCT_ISSUE": 0.545,
+    "RETURN_REFUND": 0.867,
+    "TECHNICAL_ISSUE": 0.591
+  }
+}
